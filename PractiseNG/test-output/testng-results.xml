@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-05T15:34:26 IST" name="Default suite" finished-at="2024-05-05T15:35:08 IST" duration-ms="41978">
+    <groups>
+    </groups>
+    <test started-at="2024-05-05T15:34:26 IST" name="Default test" finished-at="2024-05-05T15:35:08 IST" duration-ms="41978">
+      <class name="qabible.Simpleformdemo">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:34:26 IST" name="launch_browser" finished-at="2024-05-05T15:34:34 IST" duration-ms="8303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="Verify_textsimpleform1()[pri:0, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:34:34 IST" name="Verify_textsimpleform1" finished-at="2024-05-05T15:34:34 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_textsimpleform1 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:34:34 IST" name="close" finished-at="2024-05-05T15:34:34 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:34:34 IST" name="launch_browser" finished-at="2024-05-05T15:34:41 IST" duration-ms="6945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="Verify_textsimpleform2()[pri:2, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:34:41 IST" name="Verify_textsimpleform2" finished-at="2024-05-05T15:34:41 IST" depends-on-methods="qabible.Simpleformdemo.Verify_textsimpleform1" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_textsimpleform2 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:34:41 IST" name="close" finished-at="2024-05-05T15:34:42 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:34:42 IST" name="launch_browser" finished-at="2024-05-05T15:34:50 IST" duration-ms="8782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="Verify_textsimpleform3()[pri:3, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:34:50 IST" name="Verify_textsimpleform3" finished-at="2024-05-05T15:34:51 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_textsimpleform3 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:34:51 IST" name="close" finished-at="2024-05-05T15:34:51 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:34:51 IST" name="launch_browser" finished-at="2024-05-05T15:34:59 IST" duration-ms="7793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="Verify_textsimpleform4()[pri:4, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:34:59 IST" name="Verify_textsimpleform4" finished-at="2024-05-05T15:34:59 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_textsimpleform4 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:34:59 IST" name="close" finished-at="2024-05-05T15:34:59 IST" duration-ms="605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:34:59 IST" name="launch_browser" finished-at="2024-05-05T15:35:07 IST" duration-ms="7894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="Verify_textsimpleform5()[pri:5, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:35:07 IST" name="Verify_textsimpleform5" finished-at="2024-05-05T15:35:07 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_textsimpleform5 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:qabible.Simpleformdemo@35d019a3]" started-at="2024-05-05T15:35:07 IST" name="close" finished-at="2024-05-05T15:35:08 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- qabible.Simpleformdemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
